@@ -4,8 +4,10 @@ Welcome to Sample Programs in Python!
 
 ## Sample Programs
 
+- [Anagram in Python][40]
 - [Baklava in Python][22]
   - Solution borrowed from @erayak via the [baklava repo][21]
+- [Binary Search][31]
 - [Bubble Sort in Python][31]
 - Capitalize in Python
 - [Even Odd in Python][32]
@@ -28,6 +30,8 @@ Welcome to Sample Programs in Python!
 - [Roman Numberal Conversion in Python][25]
 - [ROT-13 in Python][38]
 - [Selection Sort in Python][39]
+- [Convex Hull in Python][44]
+- [Sleep sort in Python][https://github.com/TheRenegadeCoder/sample-programs/issues/1988]
 
 ## Fun Facts
 
@@ -82,7 +86,7 @@ Welcome to Sample Programs in Python!
   - [x] [The `return` Statement][10]
   - [ ] The `yield` Statement
   - [ ] The `raise` Statement
-  - [ ] The `break` Statement
+  - [x] The `break` Statement
   - [ ] The `continue` Statement
   - [x] [The `import` Statement][11]
   - [ ] The `global` Statement
@@ -129,7 +133,7 @@ Welcome to Sample Programs in Python!
 [23]: https://github.com/TheRenegadeCoder/sample-programs/blob/master/archive/p/python/file-io.py#L25
 [24]: https://github.com/TheRenegadeCoder/sample-programs/issues/492
 [25]: https://github.com/TheRenegadeCoder/sample-programs/issues/499
-[26]: https://github.com/TheRenegadeCoder/sample-programs/issues/570 
+[26]: https://github.com/TheRenegadeCoder/sample-programs/issues/570
 [27]: https://github.com/Boot-Error/sample-programs/blob/ced2e54804d8f801aee2b37fee6f443a6432cb9b/archive/p/python/lcs.py#L16
 [28]: https://github.com/Boot-Error/sample-programs/blob/ced2e54804d8f801aee2b37fee6f443a6432cb9b/archive/p/python/lcs.py#L17
 [29]: https://therenegadecoder.com/code/file-io-in-python/
@@ -143,5 +147,7 @@ Welcome to Sample Programs in Python!
 [37]: https://github.com/TheRenegadeCoder/sample-programs/issues/864
 [38]: https://github.com/TheRenegadeCoder/sample-programs/issues/867
 [39]: https://github.com/TheRenegadeCoder/sample-programs/issues/870
+[40]: https://github.com/TheRenegadeCoder/sample-programs/issues/1161
 [41]: https://www.python.org/dev/peps/pep-0020/
 [43]: https://github.com/TheRenegadeCoder/sample-programs/issues/1536
+[44]: https://github.com/TheRenegadeCoder/sample-programs/issues/1535

@@ -4,7 +4,9 @@ from glotter import main as glotter_main
 
 class ProjectType(Enum):
     Baklava = auto()
+    BinarySearch = auto()
     BubbleSort = auto()
+    Capitalize = auto()
     ConvexHull = auto()
     EvenOdd = auto()
     Factorial = auto()
